@@ -2,13 +2,16 @@
 
 <hr>
 
-*El presente proyecto es el reto propuesto por [365 DataScience](https://365datascience.com/) en 2022. Busca analizar el engagement existente entre los usuarios de esta plataforma de E-learning y los cursos que ofrece a traves de un dashboard en PowerBi*<br>
+*El presente proyecto es el reto propuesto por [365 DataScience](https://365datascience.com/) en 2022. Busca analizar el engagement existente entre los usuarios de esta plataforma de E-learning y los cursos que ofrece a través de un dashboard en PowerBi*<br>
 
 ## 1. Introducción
 
-Se analizan los datos suministrados por la plataforma de cursos digitales [365 DataScience](https://365datascience.com/) a través de 11 datasets. La información relaciona los cursos realizados por usuarios y sus desempeños durante el 2022. Se crea una BD en SQl para almacenar los datasets. Se desarrolla un Dashboard en Power Bi con las siguientes características. 
+Se analizan los datos suministrados por la plataforma de cursos digitales [365 DataScience](https://365datascience.com/) a través de 11 datasets. La información relaciona los cursos realizados por usuarios y sus desempeños durante el 2022. Se crea una BD relacional en MySQL para almacenar los datasets. Se desarrolla un Dashboard en Power Bi con las siguientes características. 
 
 <img src="src/365_dashboard_skeleton.png" width="400" height="500px">
+
+*La data suministrada puede ser consultada en [data](https://github.com/jospinoponce/reto_365data_2022/tree/main/data).*<br>
+*El diccionario de los datos: [Data_dict](https://github.com/jospinoponce/reto_365data_2022/blob/main/data_dict.xlsx).*
 <hr>
 
 ## 2. Objetivos
@@ -31,4 +34,4 @@ Microsoft PowerBi. <hr>
 ## 5. Conclusiones
 
 
-*Los procesos realizados para el desarrollo del dashboard están en:* [**3.dashboard.pbix**](https://github.com/jospinoponce/AnalisisDeMercadoSP500/blob/main/Dashboard/3.dashboard.pbixb)<hr>
+
