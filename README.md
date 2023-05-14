@@ -6,12 +6,12 @@
 
 ## 1. Introducción
 
-Se analizan los datos suministrados por la plataforma de cursos digitales [365 DataScience](https://365datascience.com/) a través de 11 datasets. La información relaciona los cursos realizados por usuarios y sus desempeños durante el 2022. Se crea una BD relacional en MySQL para almacenar los datasets. Se desarrolla un Dashboard en Power Bi con las siguientes características. 
+Se analizan los datos suministrados por la plataforma de cursos digitales [365 DataScience](https://365datascience.com/) a través de 11 datasets. La información relaciona los cursos realizados por usuarios y sus desempeños durante el 2022. Se crea una BD relacional en MySQL para almacenar los datasets. Se desarrolla un Dashboard en Power BI con las siguientes características. 
 
 <img src="src/365_dashboard_skeleton.png" width="400" height="500px">
 
-*La data suministrada puede ser consultada en [data](https://github.com/jospinoponce/reto_365data_2022/tree/main/data).*<br>
-*El diccionario de los datos: [Data_dict](https://github.com/jospinoponce/reto_365data_2022/blob/main/data_dict.xlsx).*
+*La estructura del dashboard es planteada por [365 DataScience](https://365datascience.com/).*<br>
+*El diccionario de los datos: [Data_dict](data_dict.md).*
 <hr>
 
 ## 2. Objetivos
@@ -24,11 +24,22 @@ Se analizan los datos suministrados por la plataforma de cursos digitales [365 D
 
 ## 3. Recursos implementados
 
+Python 3.9, PyMySQL<br>
 MySQL Workbench.<br>
 Microsoft PowerBi. <hr>
 
 ## 4. Resultados
+
 ### 4.1 Base de datos
+
+Se genenran dos scripts para crear una base de datos relacional con los 11 datasets suministrados por [365 Data Science](https://365datascience.com/).<br>
+
+*[**Python Script**](/DB/createBD.py) <br>
+*[**SQL Script**](/DB/createDB.sql)
+
+*Los datasets pueden ser consultados en: [datasets](/data).*<br>
+*El modelo de entidad-relación de la base de datos puede ser consultado en: [Modelo ER](/DB/ER-BD.png).*
+
 ### 4.2 Dashboard
 
 ## 5. Conclusiones

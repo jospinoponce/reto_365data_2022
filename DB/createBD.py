@@ -2,7 +2,7 @@ import pymysql
 import csv
 
 # Conexión a base de datos
-connection = pymysql.connect(host="localhost",user="root",password="jaime5510")
+connection = pymysql.connect(host="localhost",user="***",password="***") #ingresar credenciales de usuario y contraseña
 # Creación de la base de datos
 with connection.cursor() as cursor:
   cursor.execute("DROP DATABASE IF EXISTS `365_database`")
