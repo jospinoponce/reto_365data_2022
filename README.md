@@ -58,4 +58,4 @@ El dashboard presenta métricas de la plataforma como *(Cantidad de cursos, Estu
 
 ## 5. Conclusiones
 
-
+A pesar del constante flujo de nuevos usuarios registrados en la plataforma mes a mes, la adopción de membresías por parte de los usuarios es  baja. Se recomienda explorar y desarrollar estrategias que mitigen este bajo rendimiento en la métrica y mejorar la conversión de usuarios registrados a suscriptores de membresías.
