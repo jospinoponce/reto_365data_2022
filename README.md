@@ -1,6 +1,6 @@
 # <h1> Pj_07-000 Desarrollo de Dasboard para visualizar el engagement  de cursos virtuales de Data Science publicados en la web de 365 Data Science en el año 2022 </h1> 
 
-*El presente proyecto es el reto propuesto por [365 DataScience](https://365datascience.com/) en 2022. Busca analizar el engagement existente entre los usuarios de esta plataforma de E-learning a través de un dashboard en PowerBI*<br>
+*El presente proyecto es el reto propuesto por [365 DataScience](https://365datascience.com/) en 2022. Busca analizar el engagement existente entre los usuarios de esta plataforma de E-learning a través de un dashboard en PowerBI.*<br>
 
 ## 1. Introducción
 
